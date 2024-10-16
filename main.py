@@ -7,3 +7,5 @@ for i in range(10):
     while i=1:
         print("mr udhappa")
 
+    while i=1:
+        print("mrs udhippi")
